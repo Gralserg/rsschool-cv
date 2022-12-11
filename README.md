@@ -1,1 +1,1 @@
-https://gralserg.github.io/rsschool-cv/
+https://gralserg.github.io/rsschool-cv/cv
