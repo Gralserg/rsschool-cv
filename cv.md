@@ -12,7 +12,7 @@
 ## **Education**
 + #### Polotsk state university, Civil engineer, "Industrial and civil engineering"
 + #### Plumber training
-+ #### Successfully completed training at Andersen on the course 
++ #### Successfully completed training at Andersen on the course "AutoQA Java"
 ##### !["AutoQA Java"](Hresko.jpg)
 
 ## **_About me_**
